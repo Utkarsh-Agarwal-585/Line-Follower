@@ -1,0 +1,2 @@
+ It’s a line follower minirobo consists of DC Motor, L293d driver motor,battery 9V, Arduino UNO, Shaft, IR sensor(Infrared Sensor) and connectors. 
+ The IR sensor absorbs all colors except black color which gives the results to follow line and the code is dumped in the arduino to give the instructions to robo
