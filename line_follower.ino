@@ -26,7 +26,7 @@ void loop()
     val2=digitalRead(ir2);
  
   if(val1== 1 && val2== 1)
-  {\
+  {
     digitalWrite(m1a,HIGH);
     digitalWrite(m1b,LOW);
     digitalWrite(m2a,HIGH);
